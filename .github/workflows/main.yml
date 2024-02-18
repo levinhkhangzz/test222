@@ -1,4 +1,4 @@
-name: Aedotris
+name: Aedotris fix
 
 on:
   workflow_dispatch:
